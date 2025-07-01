@@ -1,4 +1,4 @@
-# 👋 Hola, soy **Miguel Delgado Ruiz**
+# 👋 Hola, soy **Miguel**
 
 > **Full‑Stack Developer** especializado en **Frontend (Vue 3 & Quasar)** · Amante del código limpio · Basado en Perú 🇵🇪
 
