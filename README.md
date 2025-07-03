@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-* +2.5 años construyendo soluciones web/mobile end‑to‑end.
+* +3 años construyendo soluciones web/mobile end‑to‑end.
 * Fuerte background en **UI Engineering** y **Component Driven Development**.
 * Siempre buscando la mejor DX: TypeScript, Vite, ESLint, Prettier & CI/CD.
 * Freelance‑friendly → disponible para proyectos cortos o de medio tiempo.
@@ -55,6 +55,6 @@
 
 * Portafolio: **[https://miguelDR05.github.io](https://miguelDR05.github.io)**
 * LinkedIn: [linkedin.com/in/migueldelgadoruiz](https://linkedin.com/in/migueldelgadoruiz) *(ejemplo, ajusta si es necesario)*
-* Correo: **[miguel.delgado.ruiz.dev@gmail.com](mailto:miguel.delgado.ruiz.dev@gmail.com)**
+* Correo: **[miguel.delgado.ruiz.dev@gmail.com](mailto:miguel05.dev@gmail.com)**
 
 *Si tienes una idea o proyecto en el que pueda ayudarte, ¡hablemos!* 🚀
