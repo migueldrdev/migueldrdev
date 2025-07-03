@@ -55,6 +55,6 @@
 
 * Portafolio: **[https://miguelDR05.github.io](https://miguelDR05.github.io)**
 * LinkedIn: [linkedin.com/in/migueldelgadoruiz](https://linkedin.com/in/migueldelgadoruiz) *(ejemplo, ajusta si es necesario)*
-* Correo: **[miguel.delgado.ruiz.dev@gmail.com](mailto:miguel05.dev@gmail.com)**
+* Correo: **[miguel05.dev@gmail.com](mailto:miguel05.dev@gmail.com)**
 
 *Si tienes una idea o proyecto en el que pueda ayudarte, ¡hablemos!* 🚀
