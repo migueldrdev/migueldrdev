@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-* +2 años construyendo soluciones web/mobile end‑to‑end.
+* +3 años construyendo soluciones web/mobile end‑to‑end.
 * Fuerte background en **UI Engineering** y **Component Driven Development**.
 * Siempre buscando la mejor DX: TypeScript, Vite, ESLint, Prettier & CI/CD.
 * Freelance‑friendly → disponible para proyectos cortos o de medio tiempo.
