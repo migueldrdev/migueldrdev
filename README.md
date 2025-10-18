@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Miguel Durand**
+# 👋 ¡Hola! Soy **Miguel**
 
 > **Ingeniero de Software | Full-Stack Developer**  
 > Ayudo a empresas y personas a **convertir ideas en software funcional, rápido y escalable.**
