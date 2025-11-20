@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-* +4 años construyendo soluciones web y mobile **end-to-end**.  
+* +3 años construyendo soluciones web y mobile **end-to-end**.  
 * Especialista en **Frontend con Vue 3 & Quasar**, con experiencia sólida en **Laravel** y **FastAPI**.  
 * Apasionado por la arquitectura limpia, patrones de diseño y una buena DX (TypeScript, ESLint, CI/CD).  
 * He liderado proyectos y relevado procesos con clientes en entornos reales.  
