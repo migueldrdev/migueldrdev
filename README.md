@@ -20,6 +20,7 @@
 **Frontend:**  
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?logo=quasar&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 
@@ -45,10 +46,10 @@
 
 | Proyecto | Stack | Descripción |
 |----------|--------|-------------|
-| [**Quasar Suite**](https://github.com/miguelDR05/quasar-suite) | Vue 3 · Quasar · TypeScript | Suite administrativa modular con rutas protegidas y diseño escalable. |
-| [**Map Routes**](https://github.com/miguelDR05/google_routes) | Vue 3 · Quasar · Google Maps API | Cálculo de rutas y distancias en tiempo real. |
-| [**Sistema de Asistencias QR**](https://github.com/miguelDR05/vuetify-material-dashboard) | Vue 2 · Vuetify · Firebase | Registro de asistencias con QR y notificaciones por Gmail. |
-| [**Registro de Empleados**](https://github.com/miguelDR05/sistema) | Laravel 8 · MySQL | CRUD completo con roles, autenticación y reportes exportables. |
+| [**Quasar Suite**](https://github.com/migueldrdev/quasar-suite) | Vue 3 · Quasar · TypeScript | Suite administrativa modular con rutas protegidas y diseño escalable. |
+| [**Developr Portfolio**](https://github.com/migueldrdev/developer-portfolio) | Astro 5 · Tailwind · Developer Portfolio | Portafolio de alto rendimiento. Incluye arquitectura Island, diseño basado en componentes y CI/CD. |
+| [**Sistema de Asistencias QR**](https://github.com/migueldrdev/assistance-web-vue) | Vue 2 · Vuetify · Firebase | Registro de asistencias con QR y notificaciones por Gmail. |
+| [**Registro de Empleados**](https://github.com/migueldrdev/assistance-api-laravel) | Laravel 8 · MySQL | CRUD completo con roles, autenticación y reportes exportables. |
 
 > 💡 *Explora mis repositorios para ver código documentado, arquitectura modular y ejemplos de buenas prácticas.*
 
@@ -57,16 +58,16 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelDR05&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelDR05&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=migueldrdev&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldrdev&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
 </p>
 
 ---
 
 ## 📫 Contacto
 
-🌐 **Portafolio:** [portfolio-migueldr05.netlify.app](https://portfolio-migueldr05.netlify.app/)  
-💼 **LinkedIn:** [linkedin.com/in/miguel05dev](https://www.linkedin.com/in/miguel05dev)  
+🌐 **Portafolio:** [migueldr.dev](https://migueldr.dev/)  
+💼 **LinkedIn:** [linkedin.com/in/miguel05dev](https://www.linkedin.com/in/migueldrdev)  
 📧 **Correo:** [miguel05.dev@gmail.com](mailto:miguel05.dev@gmail.com)  
 💬 **WhatsApp:** [Escríbeme aquí](https://wa.me/51912096964)
 
