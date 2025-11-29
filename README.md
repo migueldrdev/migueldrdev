@@ -7,11 +7,11 @@
 
 ## 🧑‍💻 Sobre mí
 
-* +3 años construyendo soluciones web y mobile **end-to-end**.  
-* Especialista en **Frontend con Vue 3 & Quasar**, con experiencia sólida en **Laravel** y **FastAPI**.  
-* Apasionado por la arquitectura limpia, patrones de diseño y una buena DX (TypeScript, ESLint, CI/CD).  
-* He liderado proyectos y relevado procesos con clientes en entornos reales.  
-* Abierto a proyectos freelance, colaboración académica o posiciones remotas.  
+* 🚀 Full Stack Developer especializado en ecosistemas JS & PHP.
+* 🛠 Construyo: Aplicaciones End-to-End robustas usando Vue 3, Quasar, Laravel, Django y FastAPI.
+* ✨ Priorizo: Arquitectura limpia, escalabilidad y una DX impecable (TypeScript + CI/CD).
+* 👨‍💻 Lidero: Tengo experiencia real gestionando proyectos técnicos y traduciendo necesidades de clientes en código funcional.
+* 🌍 Busco: Colaboraciones remotas, freelance y retos técnicos.
 
 ---
 
@@ -20,12 +20,13 @@
 **Frontend:**  
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?logo=quasar&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 
 **Backend:**  
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
@@ -35,7 +36,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
-**Aprendiendo:**  
+**Explorando:**  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
@@ -58,10 +59,9 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=migueldrdev&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldrdev&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=migueldrdev&show_icons=true&theme=tokyonight&hide_border=true&t=1" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldrdev&layout=compact&theme=tokyonight&hide_border=true&t=1" alt="langs" />
 </p>
-
 ---
 
 ## 📫 Contacto
