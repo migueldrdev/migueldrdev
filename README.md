@@ -56,12 +56,53 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+<h2 align="center">📊 Estadísticas de GitHub 📊</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=migueldrdev&show_icons=true&theme=tokyonight&hide_border=true&t=1" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldrdev&layout=compact&theme=tokyonight&hide_border=true&t=1" alt="langs" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Mis Estadísticas</strong></h3>
+      <p align="center">
+        <a href="https://github.com/migueldrdev">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=migueldrdev&count_private=true&show_icons=true&theme=tokyonight&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Racha de Código</strong></h3>
+      <p align="center">
+        <a href="https://github.com/migueldrdev">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=migueldrdev&theme=tokyonight&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Proyecto Destacado</strong></h3>
+      <p align="center">
+        <a href="https://github.com/migueldrdev/quasar-suite">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=migueldrdev&repo=quasar-suite&theme=tokyonight&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Pinned Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Top Contribuciones</strong></h3>
+      <p align="center">
+        <a href="https://github.com/migueldrdev">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=migueldrdev&limit=2&theme=tokyonight&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<h2 align="center">📈 Gráfico de Actividad 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=migueldrdev&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
 ---
 
 ## 📫 Contacto
